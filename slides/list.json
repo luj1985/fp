@@ -1,12 +1,18 @@
 [
     "index.md",
     "why-fp-matter.md",
+    [
+        "raise/raise.md",
+        "raise/support.md"
+    ],
     "introduction.md",
     "features.md",
     [
         "productivity/productivity.md",
-        "productivity/quick-sort-in-c.md",
-        "productivity/quick-sort-in-haskell.md"
+        "productivity/for-each/java-for.md",
+        "productivity/for-each/javascript-for-each.md",
+        "productivity/qsort/quick-sort-in-c.md",
+        "productivity/qsort/quick-sort-in-haskell.md"
     ],
     [
         "highorder/high-order-function.md",
@@ -21,6 +27,11 @@
         "side-effects/monad.md"
     ],
     [
+        "performance/persistent.md",
+        "performance/lazy.md"
+    ],
+    "eval-apply/eval-apply.html",
+    [
         "contract/design-by-contract.md",
         "contract/java-jdbc-transaction.md",
         "contract/template-pattern-transaction.md",
@@ -28,8 +39,12 @@
         "contract/template-pattern-fp.md"
     ],
     [
+        "oop/oop-impl.md"
+    ],
+    [
         "lambda/lambda-calculus.md",
         "lambda/church-number.md",
         "lambda/y-combinator.md"
-    ]
+    ],
+    "eval-apply.html"
 ]
