@@ -1,0 +1,35 @@
+[
+    "index.md",
+    "why-fp-matter.md",
+    "introduction.md",
+    "features.md",
+    [
+        "productivity/productivity.md",
+        "productivity/quick-sort-in-c.md",
+        "productivity/quick-sort-in-haskell.md"
+    ],
+    [
+        "highorder/high-order-function.md",
+        "highorder/notations.md",
+        "highorder/high-order-notation.md",
+        "highorder/haskell.md",
+        "highorder/fn.js.md"
+    ],
+    [
+        "side-effects/side-effects.md",
+        "side-effects/why-side-effects-matter.md",
+        "side-effects/monad.md"
+    ],
+    [
+        "contract/design-by-contract.md",
+        "contract/java-jdbc-transaction.md",
+        "contract/template-pattern-transaction.md",
+        "contract/template-pattern-transaction1.md",
+        "contract/template-pattern-fp.md"
+    ],
+    [
+        "lambda/lambda-calculus.md",
+        "lambda/church-number.md",
+        "lambda/y-combinator.md"
+    ]
+]
