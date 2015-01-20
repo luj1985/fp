@@ -6,6 +6,8 @@
         "raise/fpcomplete.md",
         "raise/support.md"
     ],
+    "lambda/lambda-expression.html",
+    "expression-and-statement.md",
     "introduction.md",
     "features.md",
     [
@@ -25,6 +27,7 @@
     [
         "side-effects/side-effects.md",
         "side-effects/why-side-effects-matter.md",
+        "side-effects/mvcc.md",
         "side-effects/monad.md"
     ],
     [
