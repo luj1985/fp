@@ -19,7 +19,14 @@
   [
     "eval-apply/wizard.html",
     "eval-apply/eval-apply.html",
-    "eval-apply/eval-at-runtime.html"
+    "eval-apply/eval-at-runtime.html",
+    "eval-apply/eval-with-side-effect.html"
+  ],
+  [
+    "side-effects/side-effects.md",
+    "side-effects/why-side-effects-matter.md",
+    "side-effects/mvcc.md",
+    "side-effects/monad.md"
   ],
   "introduction.md",
   "features.md",
@@ -34,12 +41,6 @@
     "highorder/high-order-notation.md",
     "highorder/haskell.md",
     "highorder/fn.js.md"
-  ],
-  [
-    "side-effects/side-effects.md",
-    "side-effects/why-side-effects-matter.md",
-    "side-effects/mvcc.md",
-    "side-effects/monad.md"
   ],
   [
     "performance/persistent.md",
@@ -61,6 +62,6 @@
   [
     "lambda/lambda-calculus.md",
     "lambda/church-number.md",
-    "lambda/y-combinator.md"
+    "lambda/y-combinator.html"
   ]
 ]

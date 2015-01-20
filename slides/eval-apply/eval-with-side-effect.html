@@ -1,0 +1,13 @@
+<h3>With Side effect</h3>
+<pre><code class="javascript">function createGenerator(seed) {
+  return function() {
+    return seed++;
+  }
+}
+
+var gen = createGenerator(0), limit = 0;
+while(limit < 10) {
+  console.log(gen());
+  limit++;
+}
+</code></pre>
