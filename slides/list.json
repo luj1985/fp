@@ -39,12 +39,12 @@
         "contract/template-pattern-fp.md"
     ],
     [
+        "oop/memory-layout.html",
         "oop/oop-impl.md"
     ],
     [
         "lambda/lambda-calculus.md",
         "lambda/church-number.md",
         "lambda/y-combinator.md"
-    ],
-    "eval-apply.html"
+    ]
 ]

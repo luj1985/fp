@@ -1,1 +1,1 @@
-##  Why functional programming matter
+##  Why functional programming matters
