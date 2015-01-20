@@ -1,16 +1,21 @@
 [
   "index.md",
   [
-    "matters/why-fp-matter.md",
+    "matters/why-fp-matter.html",
     "matters/vs.html"
   ],
   [
-      "raise/raise.md",
-      "raise/fpcomplete.md",
-      "raise/support.md"
+    "raise/lisp.md",
+    "raise/fpcomplete.md",
+    "raise/raise.md",
+    "raise/twitter-storm.md",
+    "raise/parallel.html",
+    "raise/support.md"
   ],
-  "lambda/lambda-expression.html",
-  "expression-and-statement.md",
+  [
+    "expression/expression-and-statement.html",
+    "expression/lambda-expression.html"
+  ],
   "introduction.md",
   "features.md",
   [
