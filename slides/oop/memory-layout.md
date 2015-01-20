@@ -1,11 +1,11 @@
 ### Process Memory Layout
 ![Process Memory Layout](images/process-memory-layout.png)
 ```
-class MyObject {
+class Point {
 public:
-  void sayhello();
+  void distance();
 }
 
-MyObject *o = new MyObject();
-o.sayhello()
+Point *p = new Point(3, 4, 12);
+o.distance();
 ```

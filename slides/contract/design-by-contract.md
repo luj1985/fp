@@ -1,3 +1,3 @@
 ##  Design by contract
 
-This is a new Markdown slide
+> software designers should define formal, precise and verifiable interface specifications for software components

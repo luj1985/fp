@@ -1,4 +1,4 @@
-Another way of Javascript OOP
+### Another way of Javascript OOP
 
 ```
 function Point(x, y, z) {

@@ -1,3 +1,8 @@
-* immutable data
-* first class functions
-* tail recursion
+### Features
+
+* First class functions
+* Immutable data
+* Referential transparency
+* Lazy evaluation
+* Recursion
+* ...

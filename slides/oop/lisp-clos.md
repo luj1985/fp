@@ -1,4 +1,6 @@
-CLOS (The Common Lisp Object System)
+### CLOS 
+
+The Common Lisp Object System
 
 ```
 (defstruct point x y z)

@@ -2,7 +2,9 @@
   "index.md",
   [
     "matters/why-fp-matter.html",
-    "matters/vs.html"
+    "matters/vs.html",
+    "productivity/qsort/quick-sort-in-c.md",
+    "productivity/qsort/quick-sort-in-haskell.md"
   ],
   [
     "raise/lisp.md",
@@ -12,6 +14,7 @@
     "raise/parallel.html",
     "raise/support.md"
   ],
+  "features.md",
   [
     "expression/expression-and-statement.html",
     "expression/lambda-expression.html"
@@ -24,27 +27,20 @@
   ],
   [
     "side-effects/side-effects.md",
-    "side-effects/why-side-effects-matter.md",
+    "side-effects/why-side-effects-matter.html",
+    "side-effects/heat.md",
     "side-effects/mvcc.md",
+    "side-effects/persistent.md",
+    "side-effects/clojure-persistent-vector.md",
     "side-effects/monad.md"
-  ],
-  "introduction.md",
-  "features.md",
-  [
-    "productivity/productivity.md",
-    "productivity/qsort/quick-sort-in-c.md",
-    "productivity/qsort/quick-sort-in-haskell.md"
   ],
   [
     "highorder/high-order-function.md",
     "highorder/notations.md",
     "highorder/high-order-notation.md",
     "highorder/haskell.md",
-    "highorder/fn.js.md"
-  ],
-  [
-    "performance/persistent.md",
-    "performance/lazy.md"
+    "highorder/fn.js.md",
+    "highorder/sinatra.md"
   ],
   [
     "contract/design-by-contract.md",
@@ -54,6 +50,11 @@
     "contract/template-pattern-fp.md"
   ],
   [
+    "lazy/haskell.md",
+    "lazy/clojure-lazy.md"
+  ],
+  [
+    "oop/fp-and-oop.md",
     "oop/javascript-oop.md",
     "oop/javascript-oop1.md",
     "oop/lisp-clos.md",
@@ -61,7 +62,6 @@
   ],
   [
     "lambda/lambda-calculus.md",
-    "lambda/church-number.md",
     "lambda/y-combinator.html"
   ]
 ]
