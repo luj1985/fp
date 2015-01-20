@@ -16,6 +16,11 @@
     "expression/expression-and-statement.html",
     "expression/lambda-expression.html"
   ],
+  [
+    "eval-apply/wizard.html",
+    "eval-apply/eval-apply.html",
+    "eval-apply/eval-at-runtime.html"
+  ],
   "introduction.md",
   "features.md",
   [
@@ -40,7 +45,6 @@
     "performance/persistent.md",
     "performance/lazy.md"
   ],
-  "eval-apply/eval-apply.html",
   [
     "contract/design-by-contract.md",
     "contract/java-jdbc-transaction.md",
