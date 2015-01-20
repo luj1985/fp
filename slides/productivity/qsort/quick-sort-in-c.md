@@ -1,6 +1,6 @@
 ### Quick Sort in C
 
-```
+```c
 void swap_r(int r[], int a, int b) {
     int temp = r[a];
     r[a] = r[b];

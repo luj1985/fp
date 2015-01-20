@@ -1,5 +1,5 @@
 Java loop array
-```
+```java
 int[] arr = { 1, 2, 3, 4, 5 };
 for (int i = 0; i < arr.length; i++) {
   int v = arr[i];
@@ -7,7 +7,7 @@ for (int i = 0; i < arr.length; i++) {
 }
 ```
 For Java5+
-```
+```java
 for (int i : arr) {
   System.out.println(v);
 }

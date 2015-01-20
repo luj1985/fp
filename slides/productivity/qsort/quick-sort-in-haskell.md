@@ -1,6 +1,6 @@
 ###  Quick Sort in Haskell
 
-```
+```haskell
 qsort :: Ord a => [a] -> [a]
 qsort []     = []
 qsort (p:xs) = (qsort lesser) ++ [p] ++ (qsort greater)
