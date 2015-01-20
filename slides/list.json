@@ -3,6 +3,7 @@
     "why-fp-matter.md",
     [
         "raise/raise.md",
+        "raise/fpcomplete.md",
         "raise/support.md"
     ],
     "introduction.md",
@@ -39,8 +40,10 @@
         "contract/template-pattern-fp.md"
     ],
     [
-        "oop/memory-layout.html",
-        "oop/oop-impl.md"
+        "oop/javascript-oop.md",
+        "oop/javascript-oop1.md",
+        "oop/lisp-clos.md",
+        "oop/memory-layout.md"
     ],
     [
         "lambda/lambda-calculus.md",
