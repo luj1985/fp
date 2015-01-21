@@ -17,7 +17,8 @@
   "features.md",
   [
     "expression/expression-and-statement.html",
-    "expression/lambda-expression.html"
+    "expression/lambda-expression.html",
+    "eval-apply/repl.md"
   ],
   [
     "eval-apply/wizard.html",
@@ -30,6 +31,7 @@
     "side-effects/why-side-effects-matter.html",
     "side-effects/heat.md",
     "side-effects/mvcc.md",
+    "side-effects/cost-value.md",
     "side-effects/persistent.md",
     "side-effects/clojure-persistent-vector.md",
     "side-effects/monad.md"
@@ -40,7 +42,8 @@
     "highorder/high-order-notation.md",
     "highorder/haskell.md",
     "highorder/fn.js.md",
-    "highorder/sinatra.md"
+    "highorder/sinatra.md",
+    "highorder/node.md"
   ],
   [
     "contract/design-by-contract.md",
@@ -50,6 +53,7 @@
     "contract/template-pattern-fp.md"
   ],
   [
+    "lazy/lazy.md",
     "lazy/haskell.md",
     "lazy/clojure-lazy.md"
   ],

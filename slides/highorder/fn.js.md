@@ -6,10 +6,10 @@ fn.map( function ( value ) {
 }, [ 0, 1, 2, 3, 4, 5, 6 ] );
 // [ 0, 2, 4, 6, 8, 10, 12 ]
 
-fn.reduce( function ( accumulator, value, index ) {
-  return accumulator + value + index;
-}, 0, [ 1, 2, 3 ] );
-// 9
+fn.reduce( function ( accumulator, value ) {
+  return accumulator + value;
+}, 0, [ 1, 2, 3, 4 ] );
+// 10
 
 var f = fn.compse( Math.sqrt, Math.abs);
 f(-100);

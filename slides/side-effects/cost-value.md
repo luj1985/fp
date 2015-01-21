@@ -1,0 +1,1 @@
+> Lispers know the value of everything, but the cost of nothing
