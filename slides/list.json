@@ -66,6 +66,7 @@
   ],
   [
     "lambda/lambda-calculus.md",
+    "lambda/church.md",
     "lambda/y-combinator.html"
   ],
   "thanks.md"
